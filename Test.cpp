@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+/// test comment
+///  test comment
 int main() {
     const int MAX_SIZE = 10;
     int arr1[MAX_SIZE], arr2[MAX_SIZE], merged[2 * MAX_SIZE];
